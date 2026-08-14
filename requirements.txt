@@ -1,1 +1,2 @@
 # Dependencies get added here as we install them, phase by phase.
+pymupdf==1.28.2
