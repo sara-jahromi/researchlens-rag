@@ -1,0 +1,14 @@
+#Python
+__Pychache__/
+# __Pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+# Secrets — never commit these
+.env
+# Data — we don't commit raw PDFs
+data/*
+!data/.gitkeep
+# macOS / editor cruft
+.DS_Store
+.vscode/
